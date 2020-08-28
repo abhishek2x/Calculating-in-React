@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abhishek2x/Calculating-in-React/static/css/main.a358dabf.chunk.css",
+    "main.js": "/abhishek2x/Calculating-in-React/static/js/main.d167774f.chunk.js",
+    "main.js.map": "/abhishek2x/Calculating-in-React/static/js/main.d167774f.chunk.js.map",
+    "runtime-main.js": "/abhishek2x/Calculating-in-React/static/js/runtime-main.7de445ab.js",
+    "runtime-main.js.map": "/abhishek2x/Calculating-in-React/static/js/runtime-main.7de445ab.js.map",
+    "static/js/2.a68869fb.chunk.js": "/abhishek2x/Calculating-in-React/static/js/2.a68869fb.chunk.js",
+    "static/js/2.a68869fb.chunk.js.map": "/abhishek2x/Calculating-in-React/static/js/2.a68869fb.chunk.js.map",
+    "index.html": "/abhishek2x/Calculating-in-React/index.html",
+    "precache-manifest.8afbe7787b6f2e39e8ef42afa78bf081.js": "/abhishek2x/Calculating-in-React/precache-manifest.8afbe7787b6f2e39e8ef42afa78bf081.js",
+    "service-worker.js": "/abhishek2x/Calculating-in-React/service-worker.js",
+    "static/css/main.a358dabf.chunk.css.map": "/abhishek2x/Calculating-in-React/static/css/main.a358dabf.chunk.css.map",
+    "static/js/2.a68869fb.chunk.js.LICENSE.txt": "/abhishek2x/Calculating-in-React/static/js/2.a68869fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7de445ab.js",
+    "static/js/2.a68869fb.chunk.js",
+    "static/css/main.a358dabf.chunk.css",
+    "static/js/main.d167774f.chunk.js"
+  ]
+}
